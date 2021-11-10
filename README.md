@@ -1,7 +1,7 @@
 - 👨‍🔬 Hi, I’m @eaklein
 - ☢️ I'm a nuclear science and engineering PhD student at MIT
 - :atom: I'm interested in using portable neutron generators for arms control and nuclear security/safeguards applications
-- 💻 Most of my Github code focuses on Python processing of nuclear physics Monte-Carlo simulations and nuclear science experiments
+- 💻 Most of my code is for Python processing of nuclear physics Monte-Carlo simulations and nuclear science experiments
 - 📫 Contact: eklein@mit.edu
 
 <!---
